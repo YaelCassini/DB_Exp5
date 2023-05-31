@@ -1,0 +1,9 @@
+100023	math	Merry	null	null	1980	23.0	6
+100024	math	Merry	Guang	educate	2002	233.0	876
+100025	physics	Mike	Shang	educate	1988	45.0	44
+100026	break	Lilly	Bei	life	1843	23.0	2
+100027	educate	Tom	Nan	life	2000	78.0	56
+100028	english	Paco	Tian	skill	1899	78.0	156
+100029	program	Mandy	Shang	skill	1977	585.0	86
+100030	human	Party	Hang	society	1900	23.0	16
+100031	history	Tina	Bei	educate	1988	45.0	15
